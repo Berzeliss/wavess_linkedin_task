@@ -15,3 +15,4 @@ https://www.linkedin.com/posts/klarna_klarnas-climate-resilience-program-activit
 - The Project prioritizes **business relevance** over prediction accuracy.
 - Job roles and company types are gathered from profile titles and company information.
 - Engagement performance is analysed using reactions(likes) and comments.
+- If a profile lists more than one job role, the most recent job role is selected as a primary role. If there is full-time and part-time, the full-time position is selected as a primary role.
