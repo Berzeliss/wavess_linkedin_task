@@ -6,6 +6,7 @@ This project is used to extract relevant post features, analyse the audience and
 
 ## Given LinkedIn Post
 Klarna - AI for Climate Resilience Program
+
 https://www.linkedin.com/posts/klarna_klarnas-climate-resilience-program-activity-7346877091532959746-748v/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADnFyQBBmDIWAAFjnAInMjU44QmY2tSbC8
 
 ## Assumptions and Constraints
